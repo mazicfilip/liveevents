@@ -4,7 +4,7 @@
 
 ```bash
 # clone the project
-git clone <repo-url> && cd liveevents
+git clone https://github.com/mazicfilip/liveevents.git && cd liveevents
 
 # build the project
 ./mvnw clean package -DskipTests
